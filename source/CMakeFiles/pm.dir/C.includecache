@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/akr/Desktop/pm-ocl/source/pm.c
+pm.h
+/home/akr/Desktop/pm-ocl/source/pm.h
+math.h
+-
+stdlib.h
+-
+
+/home/akr/Desktop/pm-ocl/source/pm.h
+

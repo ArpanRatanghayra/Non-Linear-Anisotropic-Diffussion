@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/pm.dir/main.cpp.o CMakeFiles/pm.dir/pm_ocl.cpp.o CMakeFiles/pm.dir/ppm_image.cpp.o CMakeFiles/pm.dir/pm.c.o  -o pm  -L/usr/lib/x86_64-linux-gnu/libOpenCL.so -Wl,-rpath,/usr/lib/x86_64-linux-gnu/libOpenCL.so -lOpenCL 
